@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    var num = 5.87
+    println(num.toInt())
 }
